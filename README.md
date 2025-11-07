@@ -2,12 +2,12 @@
 Sobre mim
 🧑‍💻 Estudante de Informática em constante evolução na área de tecnologia e programação. Focado em aprender Python (cibersegurança), SQL, bancos de dados, Power BI e suporte técnico. Transformo desafios em oportunidades com aprendizado prático e colaboração. Tenho paixão por aprimorar minhas habilidades e ajudar pessoas com soluções reais e eficientes.﻿
 
-🛠️ Habilidades Técnicas: 
+🛠️ Habilidades Técnicas
 
 🐍 Python  🐬 MySQL  🟨 Power BI 🪟 Windows 💾 Banco de Dados 🛡️ Cibersegurança 🖥️ VSCode
 
 
-🎯 Objetivos :
+🎯 Objetivos
 
 Aprofundar habilidades em lógica, programação e cibersegurança﻿
 
