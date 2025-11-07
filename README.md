@@ -3,21 +3,9 @@ Sobre mim
 🧑‍💻 Estudante de Informática em constante evolução na área de tecnologia e programação. Focado em aprender Python (cibersegurança), SQL, bancos de dados, Power BI e suporte técnico. Transformo desafios em oportunidades com aprendizado prático e colaboração. Tenho paixão por aprimorar minhas habilidades e ajudar pessoas com soluções reais e eficientes.﻿
 
 🛠️ Habilidades Técnicas
-🐍 Python
+🐍 Python  🐬 MySQL  🟨 Power BI 🪟 Windows 💾 Banco de Dados 🛡️ Cibersegurança 🖥️ VSCode
 
-🐬 MySQL
 
-🟨 Power BI
-
-🪟 Windows
-
-💾 Banco de Dados
-
-🛡️ Cibersegurança
-
-🖥️ VSCode
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="assets/powerbi.jpg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> </p>
 🎯 Objetivos
 Aprofundar habilidades em lógica, programação e cibersegurança﻿
 
@@ -41,4 +29,3 @@ E-mail: faa.ferreira97@gmail.com
 
 LinkedIn: www.linkedin.com/in/fabricio-ferreira97
 
-Pronomes: ele/dele
