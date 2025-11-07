@@ -6,19 +6,14 @@ Sou estudante de Informática, em constante evolução na área de tecnologia e 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> Python &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> MySQL &nbsp;&nbsp;
-
-  📊 Power BI &nbsp;&nbsp; <!-- Use esse emoji se o SVG não aparecer corretamente -->
-
+  <img src="CAMINHO_DA_IMAGEM_DO_POWERBI" alt="Power BI" width="40"/> Power BI &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40"/> Windows &nbsp;&nbsp;
-
   <span style="font-size: 2em;">💾</span> Banco de Dados &nbsp;&nbsp;
-
   <span style="font-size: 2em;">🛡️</span> Cibersegurança &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/> VSCode
 </p>
+
 
 🎯 Objetivos
 Aprofundar habilidades em lógica, programação e cibersegurança﻿
