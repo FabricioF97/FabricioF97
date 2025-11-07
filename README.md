@@ -1,10 +1,23 @@
 👋 Olá, seja bem-vindo(a) ao meu perfil!
 Sobre mim
-Sou estudante de Informática, em constante evolução na área de tecnologia e programação. Tenho direcionado meus estudos para Python (com aplicação em cibersegurança), conceitos de SQL e bancos de dados, Power BI e suporte técnico. Busco diariamente transformar desafios em oportunidades, aprendendo de forma prática e colaborativa. Atualmente, estou focado em aprimorar minhas habilidades técnicas e contribuir ajudando pessoas a resolver problemas reais do dia a dia.﻿
+🧑‍💻 Estudante de Informática em constante evolução na área de tecnologia e programação. Focado em aprender Python (cibersegurança), SQL, bancos de dados, Power BI e suporte técnico. Transformo desafios em oportunidades com aprendizado prático e colaboração. Tenho paixão por aprimorar minhas habilidades e ajudar pessoas com soluções reais e eficientes.﻿
 
-🛠️ Skills Técnicas
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> <b>Python</b> &nbsp; | &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/> <b>MySQL</b> &nbsp; | &nbsp; <img src="CAMINHO_DA_IMAGEM_DO_POWERBI" alt="Power BI" width="40"/> <b>Power BI</b> &nbsp; | &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40"/> <b>Windows</b> &nbsp; | &nbsp; <span style="font-size: 2em;">💾</span> <b>Banco de Dados</b> &nbsp; | &nbsp; <span style="font-size: 2em;">🛡️</span> <b>Cibersegurança</b> &nbsp; | &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/> <b>VSCode</b> </p>
+🛠️ Habilidades Técnicas
+🐍 Python
 
+🐬 MySQL
+
+🟨 Power BI
+
+🪟 Windows
+
+💾 Banco de Dados
+
+🛡️ Cibersegurança
+
+🖥️ VSCode
+
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> <img src="assets/powerbi.jpg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> </p>
 🎯 Objetivos
 Aprofundar habilidades em lógica, programação e cibersegurança﻿
 
@@ -14,17 +27,17 @@ Aprender a gerenciar bancos relacionais e consultas SQL﻿
 
 Evoluir profissionalmente e colaborar com a comunidade tech﻿
 
-📈 O que estou estudando agora
-Python para Cibersegurança: scripts e automações voltados para proteção de sistemas﻿
+📚 O que estou estudando agora
+Python para Cibersegurança: scripts e automações voltadas para proteção de sistemas﻿
 
 SQL & Banco de Dados: consultas, modelagem e administração relacional﻿
 
 Power BI: visualização e análise de dados﻿
 
-Suporte Técnico: manutenção, troubleshooting e atendimento ao usuário﻿
+Suporte Técnico: manutenção, solução de problemas e atendimento ao usuário﻿
 
 📬 Contato
-Email: faa.ferreira97@gmail.com
+E-mail: faa.ferreira97@gmail.com
 
 LinkedIn: www.linkedin.com/in/fabricio-ferreira97
 
